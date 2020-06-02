@@ -1,9 +1,25 @@
 li {
-  background: red;
+  background: linear-gradient(to right, red, #000000);
   color: white;
 }
 
-p{
-  color: blueviolet;
-  font-size: large;
+.dev {
+  color: blue;
+  height: 25px;
+}
+
+.header {
+  background: rgb(0, 174, 255);
+  color: white;
+}
+
+.forms {
+  width: 300px;
+  background-image: url("pics/wp1925265.png");
+  background-size: cover;
+}
+
+#tree {
+  color: aqua;
+  text-shadow: 5px 2px 3px;
 }
