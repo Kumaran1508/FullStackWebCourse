@@ -1,4 +1,5 @@
 li {
+<<<<<<< HEAD
     background: red;
     color: white;
 }
@@ -7,3 +8,29 @@ p {
     color: blueviolet;
     font-size: large;
 }
+=======
+  background: linear-gradient(to right, red, #000000);
+  color: white;
+}
+
+.dev {
+  color: blue;
+  height: 25px;
+}
+
+.header {
+  background: rgb(0, 174, 255);
+  color: white;
+}
+
+.forms {
+  width: 300px;
+  background-image: url("pics/wp1925265.png");
+  background-size: cover;
+}
+
+#tree {
+  color: aqua;
+  text-shadow: 5px 2px 3px;
+}
+>>>>>>> 982c618e6e913ad189d28822e5b4d77402230c4b
