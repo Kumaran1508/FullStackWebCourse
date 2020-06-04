@@ -1,14 +1,4 @@
 li {
-<<<<<<< HEAD
-    background: blue;
-    color: white;
-}
-
-p {
-    color: blueviolet;
-    font-size: large;
-}
-=======
   background: linear-gradient(to right, red, #000000);
   color: white;
 }
@@ -33,4 +23,3 @@ p {
   color: aqua;
   text-shadow: 5px 2px 3px;
 }
->>>>>>> 982c618e6e913ad189d28822e5b4d77402230c4b
